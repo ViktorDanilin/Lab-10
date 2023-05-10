@@ -1,5 +1,6 @@
 import vosk
 import pyaudio
+
 import json
 
 model = vosk.Model("vosk-model-small-ru-0.22")
